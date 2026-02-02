@@ -16,7 +16,8 @@
 - Рабочая панель;
 - Строка состояния в нижней части окна.
 
-<image src="/‪C:/Users/Q/Desktop/Screenshot_3.png" alt="Рис.1">
+![Рис.1](/C:/Users/Q/Desktop/Screenshot_3.png)
+
 <div align="Center">Рис. 1</div>
 
 По умолчанию открываются вкладки с таблицей процессов и общей загрузкой системы.
