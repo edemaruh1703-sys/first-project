@@ -16,7 +16,7 @@
 - Рабочая панель;
 - Строка состояния в нижней части окна.
 
-![Рис.1](/C:/Users/Q/Desktop/Screenshot_3.png)
+![Рис.1](/Users/Q/Desktop/Screenshot_3.png/)
 
 <div align="Center">Рис. 1</div>
 
